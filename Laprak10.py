@@ -122,15 +122,3 @@ def mulai():
 
 if __name__ == "__main__":
     mulai()
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
